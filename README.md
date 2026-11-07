@@ -1,5 +1,3 @@
-<br>
-
 # <img src="https://raw.githubusercontent.com/UmArthur/UmArthur/main/public/wave.gif" width="35px"> Olá
 
 Meu nome é Arthur, estudante da Universidade de Brasília graduando em Engenharia de Software. 
